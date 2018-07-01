@@ -1,6 +1,6 @@
-## docker-qemu-debian
+# docker-qemu-debian
 
-# English
+## English
 
 Version française à la suite de la version anglaise / French version follow the english version.
 
@@ -35,7 +35,7 @@ RUN [ "cross-build-end" ]
 
 Then try an auto-build on Hub Docker and enjoy...
 
-# Français
+## Français
 
 ### Construire une image Docker pour ARM n'importe où
 
